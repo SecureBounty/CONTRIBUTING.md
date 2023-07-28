@@ -4,7 +4,7 @@ Thank you for your interest in contributing to SecureBounty! We value the commun
 
 ### Code of Conduct
 
-We follow a Code of Conduct to create a friendly and inclusive environment. Please review our [Code of Conduct](link-to-code-of-conduct) before participating in any discussions or contributing to our projects.
+We follow a Code of Conduct to create a friendly and inclusive environment. Please review our [Code of Conduct](https://github.com/SecureBounty/codeofconduct) before participating in any discussions or contributing to our projects.
 
 ### How to Contribute
 
