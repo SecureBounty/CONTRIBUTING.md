@@ -43,7 +43,7 @@ git push origin your-branch-name
 
 ### Issue Reporting
 
-If you encounter bugs, have feature requests, or any other concerns, please open an issue on our [Issue Tracker](link-to-issue-tracker). Provide a clear and concise description, along with any relevant details, to help us understand and address the matter efficiently.
+If you encounter any bugs, have questions, or want to propose new ideas, feel free to open an issue in the repository. Provide a clear and detailed description of the problem or suggestion to help us better understand and address it.
 
 ### Code Style and Standards
 
